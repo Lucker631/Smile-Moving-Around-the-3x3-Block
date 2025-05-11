@@ -1,0 +1,26 @@
+[2025-05-09T14:43:49.228Z] [WARN] Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\codeschool\weather-mcp-server\dist\package.json'
+[2025-05-09T14:43:49.228Z] [WARN] Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\codeschool\weather-mcp-server\dist\package.json'
+[2025-05-09T14:43:49.228Z] [INFO] Initializing MCP Server: unnamed-mcp-server@0.0.0
+[2025-05-09T14:43:49.229Z] [DEBUG] Initialized ToolLoader with directory: C:\codeschool\weather-mcp-server\dist\tools
+[2025-05-09T14:43:49.229Z] [DEBUG] Initialized PromptLoader with directory: C:\codeschool\weather-mcp-server\dist\prompts
+[2025-05-09T14:43:49.229Z] [DEBUG] Initialized ResourceLoader with directory: C:\codeschool\weather-mcp-server\dist\resources
+[2025-05-09T14:43:49.229Z] [DEBUG] Attempting to load tools from: C:\codeschool\weather-mcp-server\dist\tools
+[2025-05-09T14:43:49.231Z] [DEBUG] Found files in directory: ExampleTool.js, GetWeatherInBarcelonaTool.js
+[2025-05-09T14:43:49.231Z] [DEBUG] Checking file ExampleTool.js: included
+[2025-05-09T14:43:49.231Z] [DEBUG] Attempting to load tool from: C:\codeschool\weather-mcp-server\dist\tools\ExampleTool.js
+[2025-05-09T14:43:49.256Z] [DEBUG] Validated tool: get_weather_in_barcelona_tool
+[2025-05-09T14:43:49.256Z] [DEBUG] Checking file GetWeatherInBarcelonaTool.js: included
+[2025-05-09T14:43:49.256Z] [DEBUG] Attempting to load tool from: C:\codeschool\weather-mcp-server\dist\tools\GetWeatherInBarcelonaTool.js
+[2025-05-09T14:43:49.259Z] [DEBUG] Validated tool: get_weather_in_barcelona_tool
+[2025-05-09T14:43:49.259Z] [DEBUG] Successfully loaded 2 tools: get_weather_in_barcelona_tool, get_weather_in_barcelona_tool
+[2025-05-09T14:43:49.259Z] [DEBUG] Attempting to load prompts from: C:\codeschool\weather-mcp-server\dist\prompts
+[2025-05-09T14:43:49.260Z] [DEBUG] No prompts directory found
+[2025-05-09T14:43:49.260Z] [DEBUG] Attempting to load resources from: C:\codeschool\weather-mcp-server\dist\resources
+[2025-05-09T14:43:49.260Z] [DEBUG] No resources directory found
+[2025-05-09T14:43:49.260Z] [DEBUG] Checking file ExampleTool.js: included
+[2025-05-09T14:43:49.260Z] [DEBUG] Tools directory has valid files: true
+[2025-05-09T14:43:49.260Z] [DEBUG] Tools capability enabled
+[2025-05-09T14:43:49.260Z] [DEBUG] No prompts directory found
+[2025-05-09T14:43:49.261Z] [DEBUG] No resources directory found
+[2025-05-09T14:43:49.261Z] [INFO] Started unnamed-mcp-server@0.0.0
+[2025-05-09T14:43:49.261Z] [INFO] Tools (2): get_weather_in_barcelona_tool
